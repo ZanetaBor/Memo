@@ -1,0 +1,62 @@
+# Pliki binarne i katalogi generowane przez kompilacjê
+bin/
+obj/
+debug/
+release/
+
+# Pliki u¿ytkownika generowane przez Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pliki konfiguracji lokalnych
+.vscode/
+.vs/
+*.sln.log
+
+# Pliki tymczasowe i cache
+*.log
+*.tmp
+*.temp
+*.cache
+*.ide.*
+
+# Pliki generowane automatycznie przez system
+*.swp
+Thumbs.db
+*.bak
+*.old
+*.orig
+*.rej
+*.gz
+
+# Pliki pakietów NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Folder z plikami NuGet
+packages/
+.nuget/
+
+# Folder zale¿noœci kompilacji
+Tools/
+
+# Folder generowany automatycznie dla funkcji publikacji
+PublishProfiles/
+
+# Pliki tymczasowe generowane przez Rider/Resharper
+.idea/
+*.DotSettings.user
+
+# Dane testowe
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.codecoverage
+
+# Systemowe pliki konfiguracyjne
+appsettings.json
+appsettings.*.json
