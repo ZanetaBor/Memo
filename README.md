@@ -24,5 +24,5 @@ A fun and interactive memory game built using C# and WPF, where players match wo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/memo-game.git
+   git clone https://github.com/ZanetaBor/Memo.git
    cd memo-game
